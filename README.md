@@ -7,7 +7,7 @@ Currently working as a full stack web developer. I'm always improving my current
   <h4> Back (Lang/FW):</h4>
   <ul>
     <li> <strong>Python:</strong> Django/Flask; </li>
-    <li> <strong>Javascript:</strong> Node.js.</li>
+    <li> <strong>Javascript:</strong> Node.js/Express.</li>
   </ul>
   <h4> Front (Skils: Lang/FW):</h4>
   <ul>
